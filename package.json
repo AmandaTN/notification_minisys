@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AmandaTN/notification_minisys/issues"
   },
-  "homepage": "https://github.com/AmandaTN/notification_minisys#readme"
+  "homepage": "https://github.com/AmandaTN/notification_minisys#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
